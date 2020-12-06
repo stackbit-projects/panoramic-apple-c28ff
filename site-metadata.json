@@ -30,10 +30,6 @@
         {
             "title": "Store",
             "url": "/store"
-        },
-        {
-            "title": "About",
-            "url": "/about"
         }
     ],
     "title": "Levelup Mentoring"
