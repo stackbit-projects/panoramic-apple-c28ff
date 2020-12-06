@@ -26,11 +26,6 @@
             }
         }
     },
-    "main_menu": [
-        {
-            "title": "Store",
-            "url": "/store"
-        }
-    ],
+    "main_menu": [],
     "title": "Levelup Mentoring"
 }
