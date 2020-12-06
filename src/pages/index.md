@@ -1,6 +1,6 @@
 ---
 title: Levelup
-white_header: true
+white_header: false
 sections:
   - type: hero_section
     section_id: hero_section
